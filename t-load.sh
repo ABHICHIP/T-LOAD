@@ -1,5 +1,5 @@
 #!Script  author N117R0
-#By noob hackers
+#By abhi bro
 #Be a creative person not copy paster
 
 ###################################
